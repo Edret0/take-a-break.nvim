@@ -1,0 +1,20 @@
+===============================================================================
+INTRODUCTION                                                           *take-a-break.nvim*
+    
+This is a fun plugin that I created which outputs a message every 30
+minutes to tell the user to take a little break. This plugins helps the user
+to get up from there seat and walk around the area that they are in for a 
+couple of minutes to refresh their mind.
+
+                                                        *take-a-break.setup()*
+The setup function takes nothing as input. Just call the 
+function and the plugin should start outputting a message 
+every 30 minutes telling you to take a break.
+
+                                                  *take-a-break.showMessage()*
+This function starts up the plugin which sends the message every
+30 minutes.
+    
+
+
+vim:tw=78:ts=8:ft=help:norl:
